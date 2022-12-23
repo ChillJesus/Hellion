@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Hellion server and api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "express": "^4.18.2"
+  }
+}
